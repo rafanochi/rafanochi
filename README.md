@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafa, software developer.
-- 🌱 I have learnt C, Swift, Java, Go, Python, Typescript, C++, React and Vue. I’m practicing Nix and Haskell for now.
+- 🌱 I have learnt Hasekll, C, Swift, Java, Go, Python, Typescript, C++, React and Vue. I’m practicing Nix and Rust for now.
 - I use NixOS btw ❄️
 
 <!---
